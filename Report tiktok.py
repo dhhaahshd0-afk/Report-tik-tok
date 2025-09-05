@@ -38,7 +38,7 @@ if kaito >=10:
 	print(Z+f'There is no such number {kaito}')
 	
 	exit('')
-session = ('9e0696052ae90fe8842d4e619d890d1f')
+session = ('d5271c42580e22f6e116c1b011c87d5b')
 target=input(f'{F}[?] User The victim : {Z} ')
 os.system('clear')
 print(f'''{Z}
@@ -354,4 +354,4 @@ elif kaito==0000:
 	if rrep in rept0000.text:
 		print(Z+"[×] Error")
 	else:
-		print(f"{C}[{C}✓] {F}Report ")
+	الاسطوره سامي control + shift + m
