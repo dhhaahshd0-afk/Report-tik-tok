@@ -1,0 +1,3 @@
+requests
+user-agent
+python-telegram-bot==20.7
